@@ -1,0 +1,61 @@
+Report_Date,Section,Submitted_By,Leadership_Viewed,Feedback,Changed_Since_Last_Week
+2025-01-05,Sprint velocity,report_bot_1,Yes,👍,Reworded
+2025-01-05,Hiring pipeline,report_bot_4,Yes,,No
+2025-01-05,Hiring pipeline,report_bot_2,No,Duplicate info,Yes
+2025-01-05,Marketing campaigns,report_bot_3,No,,Reworded
+2025-01-05,Design progress,report_bot_7,No,,Yes
+2025-01-05,Blocked dependencies,report_bot_2,No,Duplicate info,Yes
+2025-01-05,Budget spend,report_bot_7,No,Remove this,Yes
+2025-01-05,Team morale pulse,report_bot_5,No,Duplicate info,Yes
+2025-01-05,Key risks,report_bot_1,Yes,Who owns this?,Barely
+2025-01-05,Team morale pulse,report_bot_3,No,Who owns this?,Barely
+2025-01-05,QA progress,report_bot_3,Yes,,Barely
+2025-01-05,Support ticket trends,report_bot_3,No,,Reworded
+2025-01-05,Key risks,report_bot_5,No,,No
+2025-01-05,Design progress,report_bot_3,No,Needs clarity,Yes
+2025-01-05,Team morale pulse,report_bot_2,No,👍,No
+2025-01-12,Support ticket trends,report_bot_7,No,Duplicate info,Yes
+2025-01-12,Budget spend,report_bot_7,No,Who owns this?,Yes
+2025-01-12,Team morale pulse,report_bot_2,No,,Yes
+2025-01-12,Marketing campaigns,report_bot_5,No,👍,Barely
+2025-01-12,Key risks,report_bot_2,No,,Barely
+2025-01-12,Design progress,report_bot_4,No,No action needed,Yes
+2025-01-12,Bug backlog,report_bot_6,Yes,No action needed,Barely
+2025-01-12,Engineering update,report_bot_1,No,Update next week,No
+2025-01-12,Budget spend,report_bot_3,No,Why is this here?,Reworded
+2025-01-12,Design progress,report_bot_6,Yes,Looks good,Yes
+2025-01-12,Bug backlog,report_bot_1,No,Looks good,Yes
+2025-01-12,Blocked dependencies,report_bot_3,No,Remove this,No
+2025-01-12,Engineering update,report_bot_3,No,Update next week,Yes
+2025-01-12,Team morale pulse,report_bot_3,No,Who owns this?,No
+2025-01-12,Budget spend,report_bot_1,No,Update next week,Reworded
+2025-01-19,Key risks,report_bot_6,No,,No
+2025-01-19,Revenue impact,report_bot_7,No,Remove this,Yes
+2025-01-19,Customer feedback summary,report_bot_6,No,Update next week,Reworded
+2025-01-19,Revenue impact,report_bot_6,No,👍,No
+2025-01-19,Revenue impact,report_bot_6,No,Remove this,Yes
+2025-01-19,Blocked dependencies,report_bot_4,No,,Reworded
+2025-01-19,Product roadmap,report_bot_3,No,,Yes
+2025-01-19,Budget spend,report_bot_2,Yes,Needs clarity,Barely
+2025-01-19,Blocked dependencies,report_bot_1,No,Needs clarity,Reworded
+2025-01-19,Budget spend,report_bot_7,No,,Yes
+2025-01-19,Team morale pulse,report_bot_3,No,Duplicate info,Barely
+2025-01-19,Engineering update,report_bot_1,Yes,Needs clarity,Barely
+2025-01-19,Sprint velocity,report_bot_5,No,Remove this,No
+2025-01-19,Hiring pipeline,report_bot_1,Yes,,No
+2025-01-19,Product roadmap,report_bot_4,No,Who owns this?,Barely
+2025-01-26,Key risks,report_bot_3,No,Why is this here?,Barely
+2025-01-26,Design progress,report_bot_3,Yes,Needs clarity,Reworded
+2025-01-26,Marketing campaigns,report_bot_3,No,,Reworded
+2025-01-26,Budget spend,report_bot_4,No,Duplicate info,Barely
+2025-01-26,Sprint velocity,report_bot_5,No,👍,Barely
+2025-01-26,QA progress,report_bot_4,No,Not relevant,Reworded
+2025-01-26,Support ticket trends,report_bot_6,No,Looks good,Reworded
+2025-01-26,Revenue impact,report_bot_7,No,Who owns this?,Yes
+2025-01-26,Hiring pipeline,report_bot_5,No,,No
+2025-01-26,Budget spend,report_bot_3,No,Update next week,No
+2025-01-26,Customer feedback summary,report_bot_1,No,,Reworded
+2025-01-26,Key risks,report_bot_7,No,Not relevant,Reworded
+2025-01-26,Team morale pulse,report_bot_6,No,Why is this here?,Reworded
+2025-01-26,Support ticket trends,report_bot_4,No,,Yes
+2025-01-26,Team morale pulse,report_bot_7,No,Update next week,Reworded
