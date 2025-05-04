@@ -2,7 +2,9 @@
 
 A modern web application that transforms CSV data into concise, leader-friendly reports. The application processes report data and presents key metrics, changes, and blockers in a clean, single-page format with interactive visualizations.
 
-![Report Generator Screenshot](screenshot.png)
+![Report Generator Screenshot](screenshot1.png)
+![Report Generator Screenshot 2](screenshot2.png)
+![Report Generator Screenshot 3](screenshot3.png)
 
 ## Features
 
